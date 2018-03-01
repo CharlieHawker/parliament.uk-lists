@@ -61,6 +61,9 @@ en:
   place_plural: 'places'
   region: 'region'
   region_plural: 'regions'
+  # global collection translations
+  collection: 'collection'
+  collection_plural: 'collections'
   # global group translations
   group: 'group'
   groups: 'groups'
